@@ -1,4 +1,4 @@
-//        // DOM Elements
+     // DOM Elements
         const postsContainer = document.getElementById('postsContainer');
         const postInput = document.getElementById('postInput');
         const imageUrlInput = document.getElementById('imageUrlInput');
